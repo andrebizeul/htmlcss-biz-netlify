@@ -15,7 +15,7 @@ p {
   margin: 1rem 0; }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 1rem 0 2rem 0; }
+  margin: 1.2rem 0 2rem 0; }
 
 ul {
   list-style: none; }
@@ -29,7 +29,7 @@ img {
 
 .title-small {
   letter-spacing: 0.5rem;
-  font-size: 1.7rem; }
+  font-size: 1.6rem; }
 
 .text-primary {
   color: var(--primary); }
@@ -48,7 +48,7 @@ img {
     transform: rotate(-45deg); }
   10% {
     transform: rotate(-35deg); }
-  70% {
+  60% {
     transform: rotate(20deg); }
   80% {
     transform: rotate(-10deg); }
@@ -58,7 +58,7 @@ img {
     transform: rotate(0deg); } }
 
 /* Landscape phones and down */
-/* Landscape phone to portrait tablet */
+/* Landscape phone to portrait tablet** */
 /* Portrait tablet to landscape and desktop */
 /* Large desktop */
 .grid-container {
